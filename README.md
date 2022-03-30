@@ -1,6 +1,6 @@
 <h1>Welcome to My Github Account!</h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/327183591752859658?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=40px)](https://discord.com/users/865648010390405146)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/865648010390405146?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=40px)](https://discord.com/users/865648010390405146)
 
 <p>
   <a href="https://discord.com/users/865648010390405146" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" height="35px"></a>
